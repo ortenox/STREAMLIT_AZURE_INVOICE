@@ -1,3 +1,4 @@
+#How to use
 mkdir streamlit
 
 cd streamlit
@@ -9,3 +10,4 @@ myenv\Scripts\activate
 pip install streamlit pandas openai azure-ai-formrecognizer azure-core
 
 code .
+
